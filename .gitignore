@@ -115,3 +115,26 @@ fabric.properties
 .idea/**/azureSettings.xml
 
 # End of https://www.toptal.com/developers/gitignore/api/jetbrains
+/.idea/.gitignore
+/leet.iml
+/.idea/leet-code.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/
+/leet/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/leet/.gradle/buildOutputCleanup/cache.properties
+/leet/.gradle/8.2/checksums/checksums.lock
+/leet/.gradle/8.2/dependencies-accessors/dependencies-accessors.lock
+/leet/.gradle/8.2/executionHistory/executionHistory.lock
+/leet/.gradle/8.2/fileHashes/fileHashes.lock
+/leet/.gradle/8.2/dependencies-accessors/gc.properties
+/leet/.gradle/8.2/gc.properties
+/leet/.gradle/vcs-1/gc.properties
+/leet/.gradle/8.2/fileChanges/last-build.bin
+/leet/build/
+/leet/.gradle/8.2/executionHistory/executionHistory.bin
+/leet/.gradle/file-system.probe
+/leet/.gradle/8.2/fileHashes/fileHashes.bin
+/leet/.gradle/buildOutputCleanup/outputFiles.bin
+/leet/.gradle/8.2/fileHashes/resourceHashesCache.bin

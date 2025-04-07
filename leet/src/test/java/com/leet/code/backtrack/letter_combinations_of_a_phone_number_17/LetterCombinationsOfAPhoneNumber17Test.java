@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 import java.util.List;
 
 class LetterCombinationsOfAPhoneNumber17Test {
-
-
     @Test
     public void caseOne() {
         List<String> result = LetterCombinationsOfAPhoneNumber17.letterCombinations("23");
